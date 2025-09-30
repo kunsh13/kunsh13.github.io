@@ -8,10 +8,10 @@
   
   ["Aaj Tak HD", "news", "img/aajtakhd.jpg", "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8"],
   
-  ["ABP Hindi", "news", "img/abp.jpg", "https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master_720.m3u8"],
+  ["ABP Hindi", "news", "img/abp.jpg", "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master_720.m3u8"],
 
       
-  ["ABP Ganga", "movies", "img/abp_ganga.webp", "https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8"],
+  ["ABP Ganga", "news", "img/abp_ganga.webp", "https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8"],
 
   ["Zee News", "news", "img/zeenews.jpg", "https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8"],
 
@@ -707,3 +707,4 @@
   ["The End", "welcome notavailable", "img/radio-nasha.jpg", "img/1-bus-talking.mp3"]
   
   ]
+
