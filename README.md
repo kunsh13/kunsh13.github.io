@@ -2,7 +2,7 @@
 <h1 align='center'>🌟 IPTV <a href="https://kunsh13.github.io/"><img src="/img/favicon_round.png" width="40" height="40"></a> 2.3🌟</h1>
 
 
-<h1 align='left'> An IPTV serivce which I made with help of my Father </h1>
+<h7 align='left'> An IPTV serivce which I made with help of my Father </h7>
 
 
 
